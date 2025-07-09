@@ -1,8 +1,8 @@
 # Software Requirements Specification (SRS)
 
 ## Project Name: PropMan  
-**Prepared By:** [Your Name]  
-**Date:** [Insert Date]  
+**Prepared By:** Parth Khosla 
+**Date:** 9th July 2025  
 
 ---
 
