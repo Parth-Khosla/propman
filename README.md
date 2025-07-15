@@ -66,12 +66,12 @@
 
 ## 📁 Project Structure
 
-propman/
-├── documents/
-├── backend/ # FastAPI app with routers, models, and DB
-├── frontend/ # React.js frontend app
-├── docker-compose.yml # Dev environment with DB, API, frontend
-└── README.md
+propman/<br>
+├── documents/<br>
+├── backend/ # FastAPI app with routers, models, and DB<br>
+├── frontend/ # React.js frontend app<br>
+├── docker-compose.yml # Dev environment with DB, API, frontend<br>
+└── README.md<br>
 
 ## Backend Setup
 cd backend
